@@ -80,3 +80,6 @@ You can download the latest version from [Releases](https://github.com/synclouds
 ### License
 
 See [LICENSE](LICENSE) file.
+
+---
+_대한이엔지 WashCare 연동 테스트용 포크 (2026-07-21)_
